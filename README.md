@@ -1,4 +1,4 @@
-<img width=30% src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-181.gif"/>
+<img width=100% src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-181.gif"/>
 <table width="154px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador yago">
@@ -13,8 +13,8 @@
 
   <div style="display: inline_block">
 
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
+![deployment](https://img.shields.io/badge/deployment-passing-brightgreen)&nbsp;
+![20build](https://img.shields.io/badge/docker%20build-automated-066da5)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
