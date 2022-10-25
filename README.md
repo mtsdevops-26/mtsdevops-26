@@ -1,5 +1,5 @@
-<img width=100% src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-181.gif"/>
-<table width="1260px">
+<img width=30% src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-181.gif"/>
+<table width="154px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador yago">
 
