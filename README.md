@@ -41,7 +41,7 @@
   <a href="https://www.facebook.com/yago" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23141321?style=for-the-badge&logo=facebook&logoColor=00FFC8" target="_blank"></a>
 <a href="https://github.com/mtsdevops26"> <img src="https://img.shields.io/static/v1?&label=Reload&message=mtsdevops-26&&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
  </br>
-[![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/yago/)](https://www.linkedin.com/in/yago/)
+[![Linkedin: ysneshy](https://img.shields.io/badge/-yago-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/yago/)](https://www.linkedin.com/in/yago/)
 [![Gmail Badge](https://img.shields.io/badge/yagothadeu25-@gmail.com-%23141321?style=flat-square&logo=Gmail&logoColor=00FFC8&link=mailto:yagothadeu25@gmail.com)](mailto:yagothadeu25@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/6aae6342-d099-49ca-a83b-c276c6bd7669.svg)](https://wakatime.com/@6aae6342-d099-49ca-a83b-c276c6bd7669)
 [![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=%23ff0000)](https://github.com/ysneshy/)
