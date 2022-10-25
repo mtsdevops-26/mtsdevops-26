@@ -2,7 +2,7 @@
 <table width="154px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador yago">
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**Yago Thadeu Martins , 26 abos
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**Yago Thadeu Martins. 26 anos** 
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**Atuando no mercado de TI a mais de 8 anos, sempre acompanhando a evolução das tecnologias DEVOPS** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**Sistemas Operacionais (Windows Serve, Linux, Ubuntu, CoreOS, CentOS e Red Hat)**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Devops | platform engineering |JavaScript | php | html | Infraestrutura cloud | Six sigma | Ux designer | Certicações Microsoft | Python |**
