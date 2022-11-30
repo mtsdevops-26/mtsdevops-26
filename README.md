@@ -2,7 +2,7 @@
 <table width="154px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador yago">
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**Yago Thadeu Martins. 26 anos** 
+Yago Thadeu Martins. 26 anos
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**Atuando no mercado de TI a mais de 8 anos, sempre acompanhando a evolução das tecnologias DEVOPS** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**Sistemas Operacionais (Windows Serve, Linux, Ubuntu, CoreOS, CentOS e Red Hat)**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Devops | platform engineering |JavaScript | php | html | Infraestrutura cloud | Six sigma | Ux designer | Certicações Microsoft | Python |**
@@ -49,91 +49,6 @@
 
 ![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
 
-<details>
-  <summary><b>:rocket: &nbsp;Meu tempo de codificação</b></summary>
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-580-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 519 Contribuições no Ano de 2022
- > 
-> 📦 257,5 kB usados ​​no armazenamento do GitHub
- > 
-> 🚫 Não optou por contratar
- > 
-> 📜 4 Repositórios Públicos
- > 
-> 🔑 44 Repositórios Privados
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.29% 
-🌆 Daytime    90 commits     ████████████░░░░░░░░░░░░░   50.85% 
-🌃 Evening    44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.86% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
-Tuesday      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
-Wednesday    59 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-Thursday     28 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
-Friday       42 commits     ██████░░░░░░░░░░░░░░░░░░░   23.73% 
-Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Belem
-
-💬 Programming Languages: 
-JavaScript               11 hrs 28 mins      ██████████████░░░░░░░░░░░   56.42% 
-Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-JSON                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
-Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
-CSS                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
-
-🔥 Editors: 
-VS Code                  20 hrs 20 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    20 hrs 20 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   35.29% 
-PHP                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ysneshy/ysneshy/main/charts/bar_graph.png) 
-
-
- Last Updated on 22/10/2022 01:54:58 UTC
-<!--END_SECTION:waka-->
-
-  </details>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
 </div>
